@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Real-Time Semantic Segmentation (MobileNetV3 + DeepLabV3+)
 
 This project implements a minimal and production-style semantic segmentation pipeline using a lightweight MobileNetV3 + DeepLabV3+ architecture, optimized for real-time performance and edge deployment. The pipeline is built entirely using **Jupyter Notebooks** for clear experimentation and reproducibility.
@@ -14,10 +13,8 @@ This project implements a minimal and production-style semantic segmentation pip
 ├── test.ipynb              # Evaluation, benchmarking (mIoU, FPS, accuracy)
 ├── weights/                # Saved model checkpoints (base + pruned versions)
 └── README.md               # This file
+
 ```
-
----
-
 ## 📦 Key Features
 
 - ✅ Pretrained MobileNetV3 backbone (ImageNet)
