@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode / Jupyter / IDE settings
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data, weights, outputs
+data/
+weights/
+outputs/
+*.pth
+*.pt
+
+# Logs and caches
+*.log
+*.out
+*.tmp
+*.cache/
+.cache/
+
+# Package manager lock files (optional)
+poetry.lock
+Pipfile.lock
+flake.lock
+
+# Misc
+*.swp
+*.bak
+
