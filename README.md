@@ -10,6 +10,7 @@ This project implements a minimal and production-style semantic segmentation pip
 .
 ├── finetune.ipynb          # Fine-tuning the base segmentation model
 ├── prunning.ipynb          # Structured convolutional pruning
+├── onnx.ipynb              # onnx export and quantization
 ├── test.ipynb              # Evaluation, benchmarking (mIoU, FPS, accuracy)
 ├── weights/                # Saved model checkpoints (base + pruned versions)
 └── README.md               # This file
