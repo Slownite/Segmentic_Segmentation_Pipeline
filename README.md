@@ -21,7 +21,7 @@ This project implements a minimal and production-style semantic segmentation pip
 - ✅ Fine-tuning with Pascal VOC 2012 dataset
 - ✅ Structured model pruning using PyTorch
 - ✅ Evaluation using Pixel Accuracy, Mean IoU, and FPS
-- ❌ No ONNX export or quantization (not used in this version)
+- ✅ ONNX export or quantization (not used in this benchmark)
 
 ---
 
