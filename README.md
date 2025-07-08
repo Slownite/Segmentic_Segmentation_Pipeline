@@ -73,7 +73,6 @@ Run the notebooks in the following order:
 ## 📈 Future Work
 
 - [ ] Add quantization-aware training
-- [ ] Export to ONNX for cross-platform deployment
 - [ ] Deploy on ARM-based edge devices (e.g., Raspberry Pi)
 - [ ] Add result visualizations per model variant
 
