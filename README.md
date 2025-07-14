@@ -20,7 +20,7 @@ This project implements a minimal and production-style semantic segmentation pip
 
 - ✅ Pretrained MobileNetV3 backbone (ImageNet)
 - ✅ Fine-tuning with Pascal VOC 2012 dataset
-- ✅ Structured model pruning using PyTorch
+- ✅ Unstructured model pruning using PyTorch
 - ✅ Evaluation using Pixel Accuracy, Mean IoU, and FPS
 - ✅ ONNX export or quantization (not used in this benchmark)
 
